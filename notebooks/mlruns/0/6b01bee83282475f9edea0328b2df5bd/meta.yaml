@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/michieldekoninck/code/Michiel-DK/haystack_try/notebooks/mlruns/0/6b01bee83282475f9edea0328b2df5bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6b01bee83282475f9edea0328b2df5bd
+run_uuid: 6b01bee83282475f9edea0328b2df5bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646934299008
+status: 1
+tags: []
+user_id: michieldekoninck
