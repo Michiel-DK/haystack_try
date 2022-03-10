@@ -47,6 +47,9 @@ class Haystack(object):
         )
         
         return prediction
+    
+    
+'''haystack base code below'''
 
 def tutorial3_basic_qa_pipeline_without_elasticsearch():
     # In-Memory Document Store
